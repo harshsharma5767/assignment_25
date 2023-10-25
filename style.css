@@ -1,0 +1,71 @@
+.navbar-nav{
+    margin-left: auto;
+    
+}
+.header-container {
+    margin-bottom: 50px;
+    background-image: url(https://landing.zytheme.com/cobuild/assets/images/hero/1.jpg);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    text-align: center;
+    color: white;
+    font-size: 70px;
+    
+    
+}
+.title{
+    font-size: 70px;
+    font-weight: 700;
+    font-family: sans-serif;
+    margin-bottom: 40px;
+}
+.container{
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 400;
+}
+.row
+{
+    margin-right: 15px;
+    margin-left: 15px;
+    margin-bottom: 40px;
+}
+.row3{
+    text-align: center;
+    justify-content: center;
+}
+.heading--title{
+    justify-content: center;
+    margin-top: 80px;
+    text-align: center;
+    font-size: 50px;
+    text-transform: uppercase;
+}
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    width: 100%;
+}
+.widget--info-box{
+    margin-top: 50px;
+}
+.widget--social text-right text-center-xs{
+    margin: auto;
+}
+.heading-3{
+    justify-content: center;
+    text-align: center;
+    font-size: 40px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    text-transform: uppercase;
+}
+.text{
+    font-weight: 700;
+}
